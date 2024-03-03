@@ -129,6 +129,7 @@ A list of tutorials that work towards the making of small to large projects in C
 * [The Craft of Text Editing](https://www.amazon.com/dp/1411682971/) `book`
 * [Write a hash table in C](https://github.com/jamesroutley/write-a-hash-table)
 * [Writing an SVG Library](http://www.code-in-c.com/writing-svg-library-c/)
+* [Daniel Lemire's blog code](https://github.com/lemire/Code-used-on-Daniel-Lemire-s-blog)
 
 ## Other Resources
 
