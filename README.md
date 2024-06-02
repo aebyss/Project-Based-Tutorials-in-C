@@ -133,7 +133,6 @@ A list of tutorials that work towards the making of small to large projects in C
 ## Other Resources
 
 * Practice Projects
-    * [Beginner Projects](https://github.com/jorgegonzalez/beginner-projects)
     * [Mega Project List](https://github.com/karan/Projects)
     * [The UChicago χ-Projects](http://chi.cs.uchicago.edu/index.html)
 * Similar List  
